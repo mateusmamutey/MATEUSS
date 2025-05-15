@@ -1,0 +1,25 @@
+body{   
+    background-color: rgb(8, 3, 30);
+    color: rgb(77, 134, 128);
+}
+header{
+    background-color: rgb(9, 29, 29);
+    color: #c97575;
+    padding: 20px;
+    text-align: center;
+}
+.foto{
+    height: 300px;
+    border-radius: 50%;
+    
+    
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+main{
+    max-width: 800px;
+    padding: 50px;
+
+}
